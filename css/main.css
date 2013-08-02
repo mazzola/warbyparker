@@ -125,6 +125,13 @@ textarea {
     display: inline;
 }
 
+.author, .title {
+    float: right;
+    clear: both;
+    margin: 0 40px 0 0;
+    text-transform: uppercase;
+}
+
 
 
 
